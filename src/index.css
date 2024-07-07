@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: "Playfair Display", serif;
+}
+  .hex2{
+    background: #f4e8c6;
+    width: 120px;
+    height: 120px;
+    -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    position: relative;
+  }
+  .comb {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    z-index: 1;
+  }
+
