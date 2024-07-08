@@ -60,7 +60,7 @@ const Faq = () => {
         <details>
           <summary className="py-2 outline-none cursor-pointer ">How should I store my honey?</summary>
           <div className="px-4 pb-4">
-            <p className='w-[90%]'>Honey should b stored in a cool, dry place away from direct sunlight. It does not need to be refrigerated. If your honey crystallizes, you can gently warm the jar in a bowl of warm water to restore its liquid consistency.</p>
+            <p className='w-[90%]'>Honey should be stored in a cool, dry place away from direct sunlight. It does not need to be refrigerated. If your honey crystallizes, you can gently warm the jar in a bowl of warm water to restore its liquid consistency.</p>
           </div>
         </details>
         
