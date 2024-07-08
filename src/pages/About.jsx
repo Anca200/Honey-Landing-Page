@@ -2,7 +2,7 @@ import React from 'react';
 import About_Image1 from "../assets/about_img.jpg";
 import About_Image2 from "../assets/about_img2.jpg";
 import About_Bee1 from "../assets/Bee1.png";
-import About_Bee2 from "../assets/Bee2.png";
+import About_Bee2 from "../assets/Bee1.png";
 import About_Bee3 from "../assets/Bee3.png";
 import Honey_Drop from "../assets/Honey_Drop1.png";
 import Member1 from "../assets/Member1.jpg";
