@@ -1,9 +1,7 @@
 import React from 'react';
 import About_Image1 from "../assets/about_img.jpg";
 import About_Image2 from "../assets/about_img2.jpg";
-import About_Bee1 from "../assets/Bee1.png";
-import About_Bee2 from "../assets/Bee1.png";
-import About_Bee3 from "../assets/Bee3.png";
+
 import Honey_Drop from "../assets/Honey_Drop1.png";
 import Member1 from "../assets/Member1.jpg";
 import Member2 from "../assets/Member2.jpg";
@@ -26,15 +24,7 @@ id="about">
  <img src={Honey_Drop}  alt="Drop Of Honey Image"
     className='absolute w-[150px] bottom-[600px] lg:left-0 lg:top-[550px] '
     />
- <img src={About_Bee3} alt="Image Of A Bee"
-    className='absolute right-[200px] top-[400px] w-[250px] max-lg:hidden'
-    />
- <img src={About_Bee2}  alt="Image Of A Bee"
-    className='absolute w-[80px] ml-auto mr-auto left-0 right-0 lg:right-[60px] lg:top-[20vh]  lg:w-[100px] '
-    />
- <img src={About_Bee1}  alt="Image Of A Bee"
-    className='absolute right-[160px] top-[150vh] w-[100px] max-sm:hidden '
-    />
+
 
 {/*Text Container*/}
     <div
