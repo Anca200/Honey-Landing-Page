@@ -26,7 +26,6 @@ module.exports = {
                "Hero" : "url('../src/assets/svg.png')",
                "btn" : "linear-gradient(135deg, #FFD700, #FFC300, #FFB300)",
               "About_Parallax" : "url('../src/assets/Parallax.png')",
-              "Info3" : "url('../src/assets/info3.png')",
               "bg-1" : "url('../src/assets/bg-1.png')",
               "bg-2" : "url('../src/assets/honey-ai2.png')",
               "bg-contact" : "url('../src/assets/parallax2.png')"
