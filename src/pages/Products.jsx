@@ -6,8 +6,8 @@ import Clover from "../assets/Clover.png";
 import Manuka from "../assets/Manuka.png";
 import Acacia from "../assets/Acacia.png";
 import Buckwheat from "../assets/Buckwheat.png";
-import bee2 from "../assets/bee4.png";
-import honey2 from "../assets/honey2.png";
+import bee2 from "../assets/Bee2.png";
+import honey2 from "../assets/Honey_Drop2.png";
 const Products = () => {
   return (
  <>
