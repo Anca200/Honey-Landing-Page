@@ -28,6 +28,7 @@ module.exports = {
               "About_Parallax" : "url('../src/assets/Parallax.png')",
               "bg-1" : "url('../src/assets/bg-1.png')",
               "bg-2" : "url('../src/assets/honey-ai2.png')",
+              "bg-3" : "url('../src/assets/ai_bee.png')",
               "bg-contact" : "url('../src/assets/parallax2.png')"
         },
         

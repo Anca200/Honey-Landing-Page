@@ -15,7 +15,7 @@ export function WobbleCardDemo() {
         containerClassName="col-span-1 lg:col-span-2 h-[100px]  min-h-[200px] lg:min-h-[300px] bg-bg-2 ">
 
       </WobbleCard>
-      <WobbleCard containerClassName="col-span-1 min-h-[300px] max-sm:min-h-[200px]">
+      <WobbleCard containerClassName="col-span-1 min-h-[300px] max-sm:min-h-[200px] bg-bg-3">
   
       </WobbleCard>
       <WobbleCard containerClassName="col-span-1 lg:col-span-3 bg-blue-900 min-h-[200px] lg:min-h-[600px] xl:min-h-[300px]  bg-bg-1 max-sm:min-h-[100px]">
